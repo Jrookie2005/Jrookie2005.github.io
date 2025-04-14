@@ -1,6 +1,6 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+_[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)_
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Bachelor's degree in Artificial Intelligence at the School of Artificial Intelligence, Sun Yat-sen University.
 
 #### Email
 
@@ -8,7 +8,7 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 
 #### Education
 
-**Sun Yat-Sen University**, Master of AI (2023 – )
+**Sun Yat-Sen University**, Bachelor of AI (2023 – )
 
 <!-- • GPA: XX/XX   -->
 
