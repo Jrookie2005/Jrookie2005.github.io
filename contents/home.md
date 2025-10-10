@@ -1,10 +1,8 @@
-_[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)_
-
 I'm currently pursuing a Bachelor's degree in Artificial Intelligence at the School of Artificial Intelligence, Sun Yat-sen University.
 
 #### Email
 
-<code>1710156298@qq.com</code>
+📧 [zhjrookie@163.com](zhjrookie@163.com)
 
 #### Education
 
@@ -20,6 +18,4 @@ I'm currently pursuing a Bachelor's degree in Artificial Intelligence at the Sch
 
 #### Research Interests
 
-<!-- XX, XX, XX, XX. -->
-
-NLP,LLM
+LLM
